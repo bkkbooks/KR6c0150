@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0150_000.yaml, hash: 'sha256:4f3d8680ef80933d1b1590c5b531da93326eea25591aaf2c50205353ee29f5f8'}
-  - {seq: 1, filename: KR6c0150_001.yaml, hash: 'sha256:98e176afe0f0f676344933d04597357972e0c77c48fe6d692b992e220f722dae'}
-  - {seq: 2, filename: KR6c0150_002.yaml, hash: 'sha256:125dd3239ab19f1a9f244c9aea1369880dcb7f61771c19b901506a8dde4b5fca'}
-  - {seq: 3, filename: KR6c0150_003.yaml, hash: 'sha256:58e110aecb1180300e51889959861b4e7c995d7b9e7ce2b58537796630118716'}
+  - {seq: 1, filename: KR6c0150_001.yaml, hash: 'sha256:e0fd26ef0c65d0e9be3025ea8e938659ba93212c0fd18e16a004301ba10fe6fe'}
+  - {seq: 2, filename: KR6c0150_002.yaml, hash: 'sha256:839a6d68f503c9a4fc22da135bf266762c0861325d37395c40a53e8b6007cff2'}
+  - {seq: 3, filename: KR6c0150_003.yaml, hash: 'sha256:54aa1db366cfd784cf0ec85a5753b89ee7409257e364d769d9d9c30fe326fc3e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0150_001.markers.yaml, hash: 'sha256:4bf3677f4d3fbf591b89cd9302a23482b25f5a8907eb36f3350b308805cd2f9b'}
-  - {seq: 2, role: markers, filename: assets/KR6c0150_002.markers.yaml, hash: 'sha256:a163ebe24ae3bcf58dbcdef011d572e4047fdaa3eb39e1cf231e0b384f0afa04'}
-  - {seq: 3, role: markers, filename: assets/KR6c0150_003.markers.yaml, hash: 'sha256:eb4dd1e382775c0062365f30b34c5b5dacf99be8cbecec94e438b5bd24881f29'}
+  - {seq: 0, role: markers, filename: assets/KR6c0150_000.markers.yaml, hash: 'sha256:d77b0256cef4e9aa3e09c5678b8b6b8046068d1ccc472ad2b3de3645d61d3f77'}
+  - {seq: 1, role: markers, filename: assets/KR6c0150_001.markers.yaml, hash: 'sha256:25de2f73171b057d9e594fb30c22000c38fb758447fa55581a5bdbaec00c1cc4'}
+  - {seq: 2, role: markers, filename: assets/KR6c0150_002.markers.yaml, hash: 'sha256:c5d609fbc40c59d4a36be86d105e4faf559722cca1cb622739cb3f203d01b867'}
+  - {seq: 3, role: markers, filename: assets/KR6c0150_003.markers.yaml, hash: 'sha256:7c129ad38a6d86a7902f675d854eb62d11764697f391795267853fa57f4cf922'}
 table_of_contents:
 - ref:
     seq: 1
@@ -60,7 +61,4 @@ table_of_contents:
   label: 般若波羅蜜多心經略疏顯正記卷下
   type: juan
   level: 1
-hash: sha256:7a9f2aba25fed5b6b96cb050c3a594957feb82a5b20c24834719635928483938
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8c7b0ed7262a5cb69e3ee04f65754a8f0868ae639032a8436f9c8c22652b915a
